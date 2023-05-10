@@ -156,7 +156,8 @@ The above image shows the CodeFactor rating for this project. It represents the 
     ```json
     {
       "name": "example_user",
-      "password": "password123
+      "password": "password123"
+    }
 
 
 ## Contact Information 
