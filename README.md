@@ -19,7 +19,7 @@ The project successfully implements the login and registration endpoints using l
 
 ## Adopted Solution
 
-The chosen solution includes Spring Boot as the framework for building the API, Thymeleaf for server-side rendering, and Bootstrap for responsive and appealing UI design. JWT is used for authentication, providing a secure and stateless approach. The user data is stored in a local MySQL database, ensuring persistence and reliability.
+The chosen solution includes Spring Boot as the framework for building the API, Thymeleaf for server-side rendering, Bootstrap for responsive and appealing UI design, and Cookies to manage the frontend sessions. JWT is used for authentication, providing a secure and stateless approach. The user data is stored in a local MySQL database, ensuring persistence and reliability.
 
 ## Installation
 
