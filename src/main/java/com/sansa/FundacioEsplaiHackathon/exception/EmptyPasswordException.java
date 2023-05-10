@@ -1,6 +1,6 @@
 package com.sansa.FundacioEsplaiHackathon.exception;
 
-public class EmptyPasswordException extends Exception{
+public class EmptyPasswordException extends RuntimeException{
 
     public EmptyPasswordException(){
         super();

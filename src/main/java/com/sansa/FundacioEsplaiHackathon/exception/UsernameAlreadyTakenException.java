@@ -1,6 +1,6 @@
 package com.sansa.FundacioEsplaiHackathon.exception;
 
-public class UsernameAlreadyTakenException extends Exception {
+public class UsernameAlreadyTakenException extends RuntimeException {
 
     public UsernameAlreadyTakenException(){
         super();
