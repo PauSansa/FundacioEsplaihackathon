@@ -10,6 +10,10 @@ This project is a full-stack application that includes a login and registration 
 Login and registration of users are fundamental functionalities in any backend system. Therefore, it is important to be able to configure these functions with any database and have a system that distinguishes between registered users and users who have not yet signed up.
 
 ## Results and Analysis
+<video controls>
+  <source src="media/front.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
 
 The project successfully implements the login and registration endpoints using local authentication strategies. Users' data is securely stored in a local MySQL database. The API provides a middleware that protects routes and allows access only to verified users. The frontend, built with Thymeleaf and Bootstrap, provides a user-friendly interface for interacting with the API.
 
@@ -27,6 +31,16 @@ To use this project and start working with it, follow these steps:
 4. Build the project using maven.
 5. Run the application and access the API endpoints.
 6. Open the frontend in a web browser to interact with the login and registration forms.
+
+
+
+## Code Quality
+
+The code in this project has been tested for quality using [CodeFactor](https://www.codefactor.io/). CodeFactor is a platform that analyzes code repositories and provides insights into code quality, style, and potential issues.
+
+![CodeFactor](/media/codefactor.png)
+
+The above image shows the CodeFactor rating for this project. It represents the overall code quality score, with higher scores indicating better code quality. The code has been reviewed and analyzed by CodeFactor, helping to identify any potential issues and ensure good coding practices.
 
 
 
