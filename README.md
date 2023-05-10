@@ -1,5 +1,5 @@
 # Spring Basic Login and Registration Server + Thymeleaf + Bootstrap
-
+[![CodeFactor](https://www.codefactor.io/repository/github/pausansa/fundacioesplaihackathon/badge)](https://www.codefactor.io/repository/github/pausansa/fundacioesplaihackathon)
 
 ## Brief Project Description
 
